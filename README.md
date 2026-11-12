@@ -112,6 +112,23 @@ An academic project exploring intelligent video surveillance through computer vi
 **Focus Areas:** Python, Computer Vision, Image Processing and Machine Learning.
 
 ---
+---
+
+## 🤝 Collaborative Projects
+
+### Intelligent Voice Assistant
+
+A collaborative project focused on developing an intelligent voice assistant.
+
+**Technologies:** Python, Speech Recognition and Voice Processing.
+
+**My Contributions:**
+- Contributed code directly to the shared GitHub repository.
+- Made individual commits as a repository collaborator.
+- Participated in collaborative development using Git and GitHub.
+
+🔗 **[GitHub Repository](https://github.com/Paras-Mehta007/Intelligent-Voice-Assistant)** | **[View My Commits](https://github.com/Paras-Mehta007/Intelligent-Voice-Assistant/commits/main/?author=divy000)**
+
 
 ## 📚 Currently Learning
 
