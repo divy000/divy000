@@ -62,7 +62,7 @@ A responsive business website developed for a property consultancy, featuring pr
 - Customer enquiry management.
 - Responsive user interface.
 
-🔗 **[GitHub Repository](https://github.com/divy000/pcj-property-consultants)** | **[Live Website](https://pcj-property-consultants.pages.dev)**
+🔗 **[GitHub Repository](https://github.com/divy000/pcj-property-consultants)** | **[Live Website](https://pcjproperty.com)**
 
 ### 2. Blood Vault — Blood Bank Management System
 
@@ -112,6 +112,7 @@ An academic project exploring intelligent video surveillance through computer vi
 **Focus Areas:** Python, Computer Vision, Image Processing and Machine Learning.
 
 ---
+
 ---
 
 ## 🤝 Collaborative Projects
@@ -128,7 +129,6 @@ A collaborative project focused on developing an intelligent voice assistant.
 - Participated in collaborative development using Git and GitHub.
 
 🔗 **[GitHub Repository](https://github.com/Paras-Mehta007/Intelligent-Voice-Assistant)** | **[View My Commits](https://github.com/Paras-Mehta007/Intelligent-Voice-Assistant/commits/main/?author=divy000)**
-
 
 ## 📚 Currently Learning
 
