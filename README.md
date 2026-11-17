@@ -1,16 +1,28 @@
+
 # Hi, I'm Divyanshu Singh Parihar 👋
 
 ### Computer Science Engineering Student | Aspiring Software Developer
 
-I'm a Computer Science and Engineering student at **Graphic Era Hill University (2023–2027)**, interested in building practical software applications and solving real-world problems through technology.
+I'm a final-year Computer Science and Engineering student at **Graphic Era Hill University, Bhimtal (2023–2027)**, interested in building practical software applications and solving real-world problems through technology.
 
 I enjoy developing full-stack applications, exploring compiler design, and learning about artificial intelligence and machine learning.
 
+🌐 **[Visit My Portfolio](https://divyanshu-portfolio-444.pages.dev/)**
+
 - 🎓 B.Tech in Computer Science & Engineering (2023–2027)
 - 💻 Interested in Full-Stack Development, Software Engineering and AI/ML
-- 🌱 Currently learning C++, Data Structures & Algorithms
+- 🌱 Currently learning C++ and Data Structures & Algorithms
 - 🔭 Working on an AI-Based Intelligent Video Surveillance project
 - 🤝 Open to internships, collaborations and learning opportunities
+
+---
+
+## 🔗 Connect With Me
+
+- **Portfolio:** [divyanshu-portfolio-444.pages.dev](https://divyanshu-portfolio-444.pages.dev/)
+- **LinkedIn:** [Divyanshu Singh Parihar](https://www.linkedin.com/in/divyanshu-singh-parihar/)
+- **LeetCode:** [divy000_0](https://leetcode.com/u/divy000_0/)
+- **Email:** [divyanshusparihar2005@gmail.com](mailto:divyanshusparihar2005@gmail.com)
 
 ---
 
@@ -51,15 +63,16 @@ I enjoy developing full-stack applications, exploring compiler design, and learn
 
 ### 1. PCJ Property Consultants — Full-Stack Business Website
 
-A responsive business website developed for a property consultancy, featuring property and project listings, customer enquiry workflows, and administrative management.
+A production website developed for a property consultancy in Uttarakhand, featuring property and project listings, interactive location maps, customer enquiry workflows, and secure administrative management.
 
-**Technologies:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Cloudflare Pages.
+**Technologies:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Leaflet, Cloudflare Pages.
 
 **Key Features:**
 - Database-driven property and project listings.
 - Authentication and role-based database access policies.
 - Administrative management of properties, projects and locations.
 - Customer enquiry management.
+- Interactive location maps.
 - Responsive user interface.
 
 🔗 **[GitHub Repository](https://github.com/divy000/pcj-property-consultants)** | **[Live Website](https://pcjproperty.com)**
@@ -100,7 +113,22 @@ An educational mini compiler built to understand the fundamental stages of compi
 
 🔗 **[GitHub Repository](https://github.com/divy000/Mini-Compiler-Web-IDE)**
 
-### 4. AI-Based Intelligent Video Surveillance — In Progress
+### 4. Personal Portfolio Website
+
+A responsive personal portfolio developed to showcase my software development projects, technical skills, educational background, and professional links.
+
+**Technologies:** React, TypeScript, Vite, CSS, Cloudflare Pages.
+
+**Key Features:**
+- Minimalist professional interface.
+- Responsive desktop and mobile layouts.
+- Sidebar navigation and project showcases.
+- Education, technical skills and contact sections.
+- Production deployment through Cloudflare Pages.
+
+🔗 **[GitHub Repository](https://github.com/divy000/divyanshu-portfolio)** | **[Live Portfolio](https://divyanshu-portfolio-444.pages.dev/)**
+
+### 5. AI-Based Intelligent Video Surveillance — In Progress
 
 An academic project exploring intelligent video surveillance through computer vision, focusing on detecting potentially dangerous events and activities.
 
@@ -110,8 +138,6 @@ An academic project exploring intelligent video surveillance through computer vi
 - Intrusion detection.
 
 **Focus Areas:** Python, Computer Vision, Image Processing and Machine Learning.
-
----
 
 ---
 
@@ -129,6 +155,8 @@ A collaborative project focused on developing an intelligent voice assistant.
 - Participated in collaborative development using Git and GitHub.
 
 🔗 **[GitHub Repository](https://github.com/Paras-Mehta007/Intelligent-Voice-Assistant)** | **[View My Commits](https://github.com/Paras-Mehta007/Intelligent-Voice-Assistant/commits/main/?author=divy000)**
+
+---
 
 ## 📚 Currently Learning
 
@@ -154,9 +182,9 @@ My goal is to become a well-rounded software engineer with strong programming fu
 **Divyanshu Singh Parihar**
 
 B.Tech — Computer Science & Engineering  
-Graphic Era Hill University | 2023–2027
+Graphic Era Hill University, Bhimtal | 2023–2027
 
-🔗 [GitHub Profile](https://github.com/divy000)
+🌐 [Portfolio](https://divyanshu-portfolio-444.pages.dev/) | [GitHub](https://github.com/divy000) | [LinkedIn](https://www.linkedin.com/in/divyanshu-singh-parihar/)
 
 ---
 
